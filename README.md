@@ -1,5 +1,7 @@
 # Pittsburgh-Bridges-Safety
 
+- VibeCheck PGH is an open-source civic dataset and hardware pipeline dedicated to capturing the natural modal frequencies of Pittsburgh's pedestrian and highway bridges.
+
 ## Sources currently being used:
 Komarizadehasl, S., Lozano, F., Lozano-Galant, J. A., Ramos, G., & Turmo, J. (2022). Low-cost wireless structural health monitoring of bridges. Sensors, 22(15), 5725.
 
